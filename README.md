@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋 I am Kael Siebra</h1>
 
-> I'm a final-year Computer Science student at the Federal University of Ceará, passionate about turning challenges into creative solutions. Throughout my journey, I've immersed myself in projects ranging from full-stack development to machine learning applications, using Python and C#. I am always looking to learn and grow, and I believe that technology can practically transform complex problems into opportunities. Currently, I am seeking internship opportunities or junior developer positions, especially in back-end and projects related to artificial intelligence.
+> I am a Computer Science student at the Federal University of Ceará, passionate about turning challenges into creative solutions. Throughout my journey, I've immersed myself in projects ranging from full-stack development to machine learning applications, using Python and C#. I am always looking to learn and grow, and I believe that technology can practically transform complex problems into opportunities. 
 <br />
 
 ## 💻 Technologies 
